@@ -13,5 +13,5 @@ requests
 
 Ollama can be downloaded at https://ollama.ai/ and the specific model you need to download for this is:
 ```
-ollama pull qwen3:4b
+ollama pull qwen3:1.7b
 ```
