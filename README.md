@@ -7,6 +7,11 @@ The LLM will spit out information it could find about the user via. those posts 
 
 ## Dependencies
 ```
-ollama w/ qwen3:4b downloaded on your device
+ollama
 requests
+```
+
+Ollama can be downloaded at https://ollama.ai/ and the specific model you need to download for this is:
+```
+ollama pull qwen3:4b
 ```
